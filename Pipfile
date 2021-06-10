@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 selenium = "<4"
-django = "<1.12"
+django = "<2.3"
 
 [requires]
 python_version = "3.7"
